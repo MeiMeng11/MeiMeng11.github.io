@@ -14,17 +14,17 @@ I hold a Master's degree in Urban Design from University College London, where m
 
 RESEARCH INTEREST
 ======
-Spatial analysis\
-Urban computing\
-Urban perception\
+Spatial analysis  
+Urban computing  
+Urban perception
 
 
 EDUCATION
 ======
-**Bartlett school of architecture, UCL**    
-M.Arch, Urban design                Sep.2022 – Sep.2023
-**Qingdao University of Technology**
-B.Arch, Architecture                Sep.2017 - July 2022
+**Bartlett school of architecture, UCL** Sep.2022 – Sep.2023  
+M.Arch, Urban design                
+**Qingdao University of Technology** Sep.2017 - July 2022  
+B.Arch, Architecture                
 
 
 
