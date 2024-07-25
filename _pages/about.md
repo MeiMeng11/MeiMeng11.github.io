@@ -9,7 +9,7 @@ redirect_from:
 
 I hold a Master's degree in Urban Design from University College London, where my research focused on redesigning large-scale leisure and entertainment infrastructure as digital and physical hybrids that build and strengthen collective creative networks, promoting a broader and more democratic urban design process. Currently, I am working as a research assistant at the Chinese Academy of Sciences, focusing primarily on spatial analysis and urban computing.
 
-[You can find my CV here](MeiMeng11.github.io/blob/bd98e85c660b00c4aa61d07272da096f291bd751/files/MeiMeng-CV-ENG_v1.pdf)
+[You can find my CV here](/files/MeiMeng-CV-ENG_v1.pdf)
 
 
 RESEARCH INTEREST
